@@ -1,0 +1,1 @@
+[23-Jun-2022 05:43:23 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/webforte/terdupi.webforte.uz/frontend/views/documents/view-all.php on line 54
